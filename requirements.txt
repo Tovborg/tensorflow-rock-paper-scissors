@@ -1,0 +1,14 @@
+opencv-python
+numpy
+matplotlib
+tensorflow
+scikit-image
+scikit-learn
+keras
+scipy
+ipython
+pandas
+jupyter
+jupyter
+sympy
+nose
